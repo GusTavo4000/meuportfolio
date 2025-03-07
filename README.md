@@ -1,16 +1,14 @@
-# meuportfolio
+# Meu portfólio 🎯
 
-A new Flutter project.
+- Estou criando um site portfólio para poder expor meu porjetos, habilidades e experiências. 
 
-## Getting Started
+- A ideia foi fazer usando a framework Flutter devido ao meu projeto da Fetin, visando pegar prática. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" >
+    <i class="fluttericon"><i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="60" style="float: left; margin-right: 12px;">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>    
